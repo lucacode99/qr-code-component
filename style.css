@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+      
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+.sandwich-div {
+    margin-top: 10rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr-code {
+    display: flex;
+    flex-direction: column;
+    width: 14rem;
+    height: 24rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+}
+
+.picture {
+    width: 12rem;
+    margin: 1em;
+    border-radius: 1rem;
+}
+
+.descriptive-box {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.bold-text {
+    font-weight: 700;
+    text-align: center;
+}
+
+.second-text {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: hsl(220, 15%, 55%)
+}
